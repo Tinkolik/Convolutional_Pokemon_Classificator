@@ -9,5 +9,7 @@ Lab3_Neural_Networks_Pokemon_Classificator
 
 Полученные метрики:
 Accuracy = 0.9233658903080391 
+
 Precision = 0.9334479670656142 
+
 Recall = 0.9279691512191512
