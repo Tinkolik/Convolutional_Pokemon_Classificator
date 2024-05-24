@@ -8,6 +8,7 @@ Lab3_Neural_Networks_Pokemon_Classificator
 Полученная нейронная сеть обучилась с точность 92,34%
 
 Полученные метрики:
+
 Accuracy = 0.9233658903080391 
 
 Precision = 0.9334479670656142 
