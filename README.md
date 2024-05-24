@@ -5,7 +5,7 @@ Lab3_Neural_Networks_Pokemon_Classificator
 
 Ссылка на датасет: https://www.kaggle.com/datasets/lantian773030/pokemonclassification
 
-Полученная нейронная сеть обучилась с точность 92,34%
+Классификатор обучился с точностью 92,34%
 
 Полученные метрики:
 
