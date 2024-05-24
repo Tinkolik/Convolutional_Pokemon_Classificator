@@ -1,0 +1,2 @@
+# Convolutional_Pokemon_Classificator
+Convolutional_Pokemon_Classificator
